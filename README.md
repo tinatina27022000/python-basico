@@ -2,3 +2,4 @@
 > * Primeiros comentários.
 > * Primeiros print exibindo mensagem
 > * Primeiras váriaveis
+> * Primeiras funções
