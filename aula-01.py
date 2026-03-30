@@ -15,9 +15,12 @@ print(nome)
 # Definindo os dados do usuário
 usuario = "Desenvolvedor"
 nivel = 1
+valor1 = 10
+valor2 = 10
 
 # Exibindo uma mensagem personalizada
 print("Olá,")
 print(usuario)
 print("Seu nível atual é:")
 print(nivel)
+print(valor1 + valor2)
