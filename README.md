@@ -4,3 +4,5 @@
 > * Primeiras váriaveis
 > * Primeiras funções
 > * Venv
+
+## Lista de Exercicios
