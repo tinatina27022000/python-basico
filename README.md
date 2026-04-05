@@ -5,6 +5,8 @@
 > * Primeiras funções
 > * Venv
 > * if
+> * for
+
 ## Lista de Exercicios
 
 ### 1. Analisador de Texto: Contador de Vogais, Consoantes e Espaços
