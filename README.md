@@ -4,7 +4,7 @@
 > * Primeiras váriaveis
 > * Primeiras funções
 > * Venv
-
+> * if
 ## Lista de Exercicios
 
 ### 1. Analisador de Texto: Contador de Vogais, Consoantes e Espaços
